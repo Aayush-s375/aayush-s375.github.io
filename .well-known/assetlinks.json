@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.onlinecybercafe.tuitionmanager2",
+        "sha256_cert_fingerprints": ["A6:A3:6E:38:37:E0:49:D5:BE:28:C3:89:54:23:5A:0F:E1:F6:90:E1:C8:28:BA:2C:85:B0:32:39:6E:52:2F:18"]
+      }
+    }]
